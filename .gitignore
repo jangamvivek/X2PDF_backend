@@ -1,0 +1,34 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Environment and config
+.env
+*.env
+
+# Uploaded or generated files
+uploaded_files/
+*.csv
+*.xlsx
+*.pdf
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: if using pytest or coverage
+.pytest_cache/
+.coverage
+htmlcov/

@@ -1,0 +1,17 @@
+uvicorn
+fastapi
+python-multipart
+pandas
+matplotlib
+seaborn
+scipy
+beautifulsoup4
+requests
+pdfplumber
+pillow
+pytesseract
+numpy
+scikit-learn
+boto3
+google-auth
+openai
