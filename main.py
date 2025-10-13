@@ -41,8 +41,8 @@ from datetime import datetime, timedelta
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://192.168.1.7:4200",
-        "http://localhost:4200"
+        "http://localhost:4200",
+        "https://x2pdf.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
