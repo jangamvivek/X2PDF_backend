@@ -1,17 +1,32 @@
-uvicorn
+# Web Framework & Server
 fastapi
+uvicorn
 python-multipart
+
+# Data Processing & Analysis
 pandas
+numpy
+scipy
+scikit-learn
+
+# Visualization
 matplotlib
 seaborn
-scipy
+
+# Web Scraping
 beautifulsoup4
 requests
-pdfplumber
+
+# OCR & Image Processing
 pillow
 pytesseract
-numpy
-scikit-learn
+pdfplumber
+
+# Cloud & APIs
 boto3
 google-auth
+google-generativeai
 openai
+
+# Utilities
+logging
